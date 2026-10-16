@@ -1,5 +1,7 @@
 # jmirGEA
 gene expression analysis
+For SampleID & Condition in genecluster7.csv
+https://www.raschonline.com/raschonline/cbpabc.asp?cbp=ROCtop10eachcluster
 # jmirGEA
 An R Shiny app for differential expression analysis and FLCA clustering of node observations. The app starts in GEO mode with `GSE79973` and a built-in Case/Control sample table. It can also analyze an uploaded expression matrix or run FLCA on a node-by-observation CSV.
 ## Run locally
